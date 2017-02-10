@@ -1,6 +1,0 @@
-E:\Github\MyDistributed\MyDistributed\MyDistributed.UnitTest\bin\Debug\MyDistributed.UnitTest.exe.config
-E:\Github\MyDistributed\MyDistributed\MyDistributed.UnitTest\bin\Debug\MyDistributed.UnitTest.exe
-E:\Github\MyDistributed\MyDistributed\MyDistributed.UnitTest\bin\Debug\MyDistributed.UnitTest.pdb
-E:\Github\MyDistributed\MyDistributed\MyDistributed.UnitTest\obj\Debug\MyDistributed.UnitTest.csprojResolveAssemblyReference.cache
-E:\Github\MyDistributed\MyDistributed\MyDistributed.UnitTest\obj\Debug\MyDistributed.UnitTest.exe
-E:\Github\MyDistributed\MyDistributed\MyDistributed.UnitTest\obj\Debug\MyDistributed.UnitTest.pdb
