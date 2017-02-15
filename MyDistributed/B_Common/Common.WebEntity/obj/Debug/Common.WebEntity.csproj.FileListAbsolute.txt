@@ -1,0 +1,13 @@
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\bin\Debug\Common.WebEntity.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\bin\Debug\Common.WebEntity.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\obj\Debug\Common.WebEntity.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\obj\Debug\Common.WebEntity.pdb
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.WebEntity\bin\Debug\Common.WebEntity.dll
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.WebEntity\bin\Debug\Common.WebEntity.pdb
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.WebEntity\obj\Debug\Common.WebEntity.dll
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.WebEntity\obj\Debug\Common.WebEntity.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.WebEntity\bin\Debug\Common.WebEntity.dll
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.WebEntity\bin\Debug\Common.WebEntity.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.WebEntity\obj\Debug\Common.WebEntity.dll
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.WebEntity\obj\Debug\Common.WebEntity.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.WebEntity\obj\Debug\Common.WebEntity.csprojResolveAssemblyReference.cache

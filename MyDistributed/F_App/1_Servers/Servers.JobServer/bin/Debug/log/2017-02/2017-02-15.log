@@ -1,0 +1,45 @@
+2017-02-15 16:44:15,767 [10] INFO  -  Servers.JobServer.Master.Start: Æô¶¯·þÎñ
+2017-02-15 16:44:15,943 [10] INFO  - Starting Hangfire Server
+2017-02-15 16:44:15,960 [10] INFO  - Using job storage: 'redis://127.0.0.1:6379/0'
+2017-02-15 16:44:15,962 [10] INFO  - Using the following options for Redis job storage:
+2017-02-15 16:44:15,962 [10] INFO  - ConnectionString: 127.0.0.1:6379
+DN: 0
+2017-02-15 16:44:15,963 [10] INFO  - Using the following options for Hangfire Server:
+2017-02-15 16:44:15,963 [10] INFO  -     Worker count: 20
+2017-02-15 16:44:15,964 [10] INFO  -     Listening queues: 'default'
+2017-02-15 16:44:15,964 [10] INFO  -     Shutdown timeout: 00:00:15
+2017-02-15 16:44:15,965 [10] INFO  -     Schedule polling interval: 00:00:15
+2017-02-15 16:44:15,993 [BackgroundProcessingServer] DEBUG - Background process 'BackgroundProcessingServer' started.
+2017-02-15 16:44:16,067 [ServerHeartbeat] DEBUG - Background process 'ServerHeartbeat' started.
+2017-02-15 16:44:16,074 [ServerWatchdog] DEBUG - Background process 'ServerWatchdog' started.
+2017-02-15 16:44:16,075 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - Background process 'Hangfire.Redis.FetchedJobsWatcher' started.
+2017-02-15 16:44:16,083 [Hangfire.Redis.RedisSubscription] DEBUG - Background process 'Hangfire.Redis.RedisSubscription' started.
+2017-02-15 16:44:16,093 [Worker #b52591c3] DEBUG - Background process 'Worker #b52591c3' started.
+2017-02-15 16:44:16,094 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - Acquiring the lock for the fetched list of the 'default' queue...
+2017-02-15 16:44:16,105 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - Looking for timed out jobs in the 'default' queue...
+2017-02-15 16:44:16,106 [Worker #d751178f] DEBUG - Background process 'Worker #d751178f' started.
+2017-02-15 16:44:16,107 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - No timed out jobs were found in the 'default' queue
+2017-02-15 16:44:16,122 [Worker #704cdba4] DEBUG - Background process 'Worker #704cdba4' started.
+2017-02-15 16:44:16,126 [Worker #a71f36db] DEBUG - Background process 'Worker #a71f36db' started.
+2017-02-15 16:44:16,131 [ServerWatchdog] INFO  - 1 servers were removed due to timeout
+2017-02-15 16:44:16,127 [Worker #0881a42d] DEBUG - Background process 'Worker #0881a42d' started.
+2017-02-15 16:44:16,137 [Worker #be55a4d9] DEBUG - Background process 'Worker #be55a4d9' started.
+2017-02-15 16:44:16,140 [Worker #b78a086b] DEBUG - Background process 'Worker #b78a086b' started.
+2017-02-15 16:44:16,141 [Worker #f16d87e3] DEBUG - Background process 'Worker #f16d87e3' started.
+2017-02-15 16:44:16,148 [Worker #aac08e06] DEBUG - Background process 'Worker #aac08e06' started.
+2017-02-15 16:44:16,152 [Worker #c11d82fc] DEBUG - Background process 'Worker #c11d82fc' started.
+2017-02-15 16:44:16,156 [Worker #9929d7fb] DEBUG - Background process 'Worker #9929d7fb' started.
+2017-02-15 16:44:16,161 [Worker #6c9b30e3] DEBUG - Background process 'Worker #6c9b30e3' started.
+2017-02-15 16:44:16,166 [Worker #d5ae6ddf] DEBUG - Background process 'Worker #d5ae6ddf' started.
+2017-02-15 16:44:16,172 [Worker #5cf26e97] DEBUG - Background process 'Worker #5cf26e97' started.
+2017-02-15 16:44:16,176 [Worker #7f5d379d] DEBUG - Background process 'Worker #7f5d379d' started.
+2017-02-15 16:44:16,177 [Worker #27d38a9f] DEBUG - Background process 'Worker #27d38a9f' started.
+2017-02-15 16:44:16,182 [Worker #3b157cb9] DEBUG - Background process 'Worker #3b157cb9' started.
+2017-02-15 16:44:16,186 [Worker #ef394a4e] DEBUG - Background process 'Worker #ef394a4e' started.
+2017-02-15 16:44:16,191 [Worker #ecda6027] DEBUG - Background process 'Worker #ecda6027' started.
+2017-02-15 16:44:16,193 [Worker #07151dbb] DEBUG - Background process 'Worker #07151dbb' started.
+2017-02-15 16:44:16,198 [DelayedJobScheduler] DEBUG - Background process 'DelayedJobScheduler' started.
+2017-02-15 16:44:16,201 [RecurringJobScheduler] DEBUG - Background process 'RecurringJobScheduler' started.
+2017-02-15 16:45:16,131 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - Acquiring the lock for the fetched list of the 'default' queue...
+2017-02-15 16:45:16,132 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - Looking for timed out jobs in the 'default' queue...
+2017-02-15 16:45:16,132 [Hangfire.Redis.FetchedJobsWatcher] DEBUG - No timed out jobs were found in the 'default' queue

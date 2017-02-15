@@ -1,0 +1,11 @@
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\Common.Repository.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\Common.Repository.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\Common.DataEntity.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\MySql.Data.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\MySqlSugar.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\Common.DataEntity.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\MySqlSugar.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\bin\Release\MySqlSugar.xml
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\obj\Release\Common.Repository.SqlSugar.csprojResolveAssemblyReference.cache
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\obj\Release\Common.Repository.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Repository\obj\Release\Common.Repository.pdb

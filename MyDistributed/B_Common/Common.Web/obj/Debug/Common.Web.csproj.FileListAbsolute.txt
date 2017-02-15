@@ -1,0 +1,12 @@
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Web\bin\Debug\Common.Web.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Web\bin\Debug\Common.Web.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Web\obj\Debug\Common.Web.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Web\obj\Debug\Common.Web.pdb
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Web\bin\Debug\Common.Web.dll
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Web\bin\Debug\Common.Web.pdb
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Web\obj\Debug\Common.Web.dll
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Web\obj\Debug\Common.Web.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\bin\Debug\Common.Web.dll
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\bin\Debug\Common.Web.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\obj\Debug\Common.Web.dll
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\obj\Debug\Common.Web.pdb

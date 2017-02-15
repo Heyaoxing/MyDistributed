@@ -1,0 +1,4 @@
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\bin\Release\Common.WebEntity.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\bin\Release\Common.WebEntity.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\obj\Release\Common.WebEntity.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.WebEntity\obj\Release\Common.WebEntity.pdb

@@ -1,0 +1,14 @@
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Tools\bin\Debug\Common.Tools.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Tools\bin\Debug\Common.Tools.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Tools\obj\Debug\Common.Tools.dll
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Tools\obj\Debug\Common.Tools.pdb
+E:\GitHub\SystemControlCenter\SystemControlCenter\Common\Common.Tools\obj\Debug\Common.Tools.csprojResolveAssemblyReference.cache
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Tools\obj\Debug\Common.Tools.dll
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Tools\obj\Debug\Common.Tools.pdb
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Tools\bin\Debug\Common.Tools.dll
+E:\GitHub\MyDistributed\MyDistributed\Common\Common.Tools\bin\Debug\Common.Tools.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Tools\bin\Debug\Common.Tools.dll
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Tools\bin\Debug\Common.Tools.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Tools\obj\Debug\Common.Tools.csprojResolveAssemblyReference.cache
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Tools\obj\Debug\Common.Tools.dll
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Tools\obj\Debug\Common.Tools.pdb

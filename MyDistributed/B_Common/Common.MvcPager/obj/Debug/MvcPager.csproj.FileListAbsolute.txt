@@ -1,0 +1,14 @@
+E:\GitHub\MvcPager\MvcPager\bin\Debug\Webdiyer.MvcPager.xml
+E:\GitHub\MvcPager\MvcPager\bin\Debug\Webdiyer.MvcPager.dll
+E:\GitHub\MvcPager\MvcPager\bin\Debug\Webdiyer.MvcPager.pdb
+E:\GitHub\MvcPager\MvcPager\bin\Debug\zh-CHT\Webdiyer.MvcPager.resources.dll
+E:\GitHub\MvcPager\MvcPager\bin\Debug\zh-CHS\Webdiyer.MvcPager.resources.dll
+E:\GitHub\MvcPager\MvcPager\obj\Debug\MvcPager.csprojResolveAssemblyReference.cache
+E:\GitHub\MvcPager\MvcPager\obj\Debug\Webdiyer.WebControls.Mvc.MvcPagerResources.resources
+E:\GitHub\MvcPager\MvcPager\obj\Debug\Webdiyer.WebControls.Mvc.MvcPagerResources.zh-CHT.resources
+E:\GitHub\MvcPager\MvcPager\obj\Debug\Webdiyer.WebControls.Mvc.MvcPagerResources.zh-CHS.resources
+E:\GitHub\MvcPager\MvcPager\obj\Debug\MvcPager.csproj.GenerateResource.Cache
+E:\GitHub\MvcPager\MvcPager\obj\Debug\zh-CHT\Webdiyer.MvcPager.resources.dll
+E:\GitHub\MvcPager\MvcPager\obj\Debug\zh-CHS\Webdiyer.MvcPager.resources.dll
+E:\GitHub\MvcPager\MvcPager\obj\Debug\Webdiyer.MvcPager.dll
+E:\GitHub\MvcPager\MvcPager\obj\Debug\Webdiyer.MvcPager.pdb
