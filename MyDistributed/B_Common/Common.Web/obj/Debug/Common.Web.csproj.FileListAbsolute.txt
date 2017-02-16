@@ -10,3 +10,4 @@ E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\bin\Debug\Common.Web.d
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\bin\Debug\Common.Web.pdb
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\obj\Debug\Common.Web.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\obj\Debug\Common.Web.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Web\obj\Debug\Common.Web.csprojResolveAssemblyReference.cache

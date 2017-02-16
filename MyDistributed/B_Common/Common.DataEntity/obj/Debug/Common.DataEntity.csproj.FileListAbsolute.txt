@@ -20,3 +20,4 @@ E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.DataEntity\bin\Debug\Commo
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.DataEntity\bin\Debug\Common.DataEntity.pdb
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.DataEntity\obj\Debug\Common.DataEntity.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.DataEntity\obj\Debug\Common.DataEntity.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.DataEntity\obj\Debug\Common.DataEntity.csprojResolveAssemblyReference.cache

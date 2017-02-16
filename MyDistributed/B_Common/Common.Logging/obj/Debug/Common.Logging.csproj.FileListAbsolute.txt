@@ -17,6 +17,6 @@ E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\bin\Debug\Common.L
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\bin\Debug\Common.Logging.pdb
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\bin\Debug\log4net.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\bin\Debug\log4net.xml
-E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\obj\Debug\Common.Logging.csprojResolveAssemblyReference.cache
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\obj\Debug\Common.Logging.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\obj\Debug\Common.Logging.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.Logging\obj\Debug\Common.Logging.csprojResolveAssemblyReference.cache

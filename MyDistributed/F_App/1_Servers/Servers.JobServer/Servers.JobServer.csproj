@@ -33,6 +33,18 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=3.0.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Autofac.3.0.0\lib\net40\Autofac.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Autofac.Configuration, Version=3.0.0.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Autofac.3.0.0\lib\net40\Autofac.Configuration.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Hangfire.Autofac, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\packages\Hangfire.Autofac.2.2.0\lib\net45\Hangfire.Autofac.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Hangfire.Core, Version=1.6.8.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\packages\Hangfire.Core.1.6.8\lib\net45\Hangfire.Core.dll</HintPath>
       <Private>True</Private>
@@ -103,6 +115,14 @@
     <ProjectReference Include="..\..\..\B_Common\Common.Tools\Common.Tools.csproj">
       <Project>{b0cb5c13-b334-4da8-8267-2e2b42b9f023}</Project>
       <Name>Common.Tools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\D_Services\Jobs\Services.Jobs.Simple\Services.Jobs.Simple.csproj">
+      <Project>{14eaa058-1506-45cd-af07-fb3d3ebe1cbb}</Project>
+      <Name>Services.Jobs.Simple</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servers.Config\Servers.Config.csproj">
+      <Project>{b0c6ea67-86b9-48f2-965e-3c3b47f49dec}</Project>
+      <Name>Servers.Config</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

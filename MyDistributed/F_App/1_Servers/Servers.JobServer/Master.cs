@@ -1,8 +1,11 @@
-﻿using Common.Logging;
+﻿using Autofac;
+using Common.Logging;
 using Common.RedisHelper;
 using Common.Tools;
 using Hangfire;
 using Hangfire.Redis;
+using Servers.Config;
+using Services.Jobs.Simple;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,6 +27,7 @@ namespace Servers.JobServer
             try
             {
                 JobStorage.Current = new RedisStorage(RedisUtils.GetHostAndPort());
+                AutofacConfig.Init();
                 string serverName = LocalhostHelper.GetInternalIP();
                 _server = new BackgroundJobServer(new BackgroundJobServerOptions()
                 {

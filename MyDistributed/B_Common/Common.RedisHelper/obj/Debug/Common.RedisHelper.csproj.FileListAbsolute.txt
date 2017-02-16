@@ -1,7 +1,7 @@
-E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\obj\Debug\Common.RedisHelper.csprojResolveAssemblyReference.cache
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\bin\Debug\Common.RedisHelper.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\bin\Debug\Common.RedisHelper.pdb
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\bin\Debug\StackExchange.Redis.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\bin\Debug\StackExchange.Redis.xml
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\obj\Debug\Common.RedisHelper.dll
 E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\obj\Debug\Common.RedisHelper.pdb
+E:\GitHub\MyDistributed\MyDistributed\B_Common\Common.RedisHelper\obj\Debug\Common.RedisHelper.csprojResolveAssemblyReference.cache

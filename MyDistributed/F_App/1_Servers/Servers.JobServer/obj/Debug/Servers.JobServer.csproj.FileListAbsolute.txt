@@ -31,3 +31,12 @@ E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debu
 E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\StackExchange.Redis.xml
 E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\es\Hangfire.Core.resources.dll
 E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\zh\Hangfire.Core.resources.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Services.Jobs.Simple.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Services.Jobs.Simple.pdb
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Autofac.Configuration.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Autofac.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Hangfire.Autofac.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Autofac.xml
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Hangfire.Autofac.xml
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Servers.Config.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\1_Servers\Servers.JobServer\bin\Debug\Servers.Config.pdb

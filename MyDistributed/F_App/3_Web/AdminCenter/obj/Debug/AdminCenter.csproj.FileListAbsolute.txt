@@ -77,3 +77,12 @@ E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Microsoft.Owin
 E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\StackExchange.Redis.xml
 E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\es\Hangfire.Core.resources.dll
 E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\zh\Hangfire.Core.resources.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Autofac.Configuration.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Autofac.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Hangfire.Autofac.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Services.Jobs.Simple.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Services.Jobs.Simple.pdb
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Autofac.xml
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Hangfire.Autofac.xml
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Servers.Config.dll
+E:\GitHub\MyDistributed\MyDistributed\F_App\3_Web\AdminCenter\bin\Servers.Config.pdb

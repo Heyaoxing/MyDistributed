@@ -1,0 +1,5 @@
+E:\GitHub\MyDistributed\MyDistributed\D_Services\Jobs\Services.Jobs.Simple\bin\Debug\Services.Jobs.Simple.dll
+E:\GitHub\MyDistributed\MyDistributed\D_Services\Jobs\Services.Jobs.Simple\bin\Debug\Services.Jobs.Simple.pdb
+E:\GitHub\MyDistributed\MyDistributed\D_Services\Jobs\Services.Jobs.Simple\obj\Debug\Services.Jobs.Simple.dll
+E:\GitHub\MyDistributed\MyDistributed\D_Services\Jobs\Services.Jobs.Simple\obj\Debug\Services.Jobs.Simple.pdb
+E:\GitHub\MyDistributed\MyDistributed\D_Services\Jobs\Services.Jobs.Simple\obj\Debug\Services.Jobs.Simple.csprojResolveAssemblyReference.cache
