@@ -1,5 +1,6 @@
 ﻿using Common.RedisHelper;
 using Hangfire;
+using Hangfire.Server;
 using Services.Jobs.Simple;
 using System;
 using System.Collections.Generic;
